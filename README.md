@@ -1,2 +1,1 @@
-# rfm-analysis-ecommerce-case
-Tugas task 1 S
+Analisis e-commerce dataset menggunakan metode Analisis RFM
