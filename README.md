@@ -9,3 +9,5 @@
 - Menemukan tren item
 > - Menghitung jumlah item yang terjual untuk setiap produk untuk masing masing periode
 - Analisis FRM
+## Task 2
+- Memprediksi CLV dalam 3 bulan
